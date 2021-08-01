@@ -14,7 +14,8 @@ AdGuard Home is a network-wide software for blocking ads & tracking. After you s
 
 ## Image features
 
-* Small size (about 100 MB)
+* Small container size (about 100 MB)
+* Image size itself is ~ 40 MB
 * Low memory usage (~ 128 MB) 
 
 ## Installation
