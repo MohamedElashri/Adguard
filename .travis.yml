@@ -1,0 +1,10 @@
+sudo: required
+services:
+  - docker
+
+script:
+  - docker build --tag melashri/adguardhome .
+
+after_script:
+  - docker images
+  
