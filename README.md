@@ -6,7 +6,7 @@
 
 Official Docker Image for AdGuardHome here - https://hub.docker.com/r/adguard/adguardhome
 
-AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, It will cover ALL your home devices with the need for a client apps. 
+AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up, It will cover all your home devices with the need for a client apps. 
 
 ![AdGuardHome](https://raw.githubusercontent.com/MrKsey/AdGuardHome/master/adh.PNG)
 
