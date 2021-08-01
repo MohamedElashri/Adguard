@@ -1,5 +1,5 @@
 # Adguard
- unofficial  docker image for Adguard for personal use
+ Unofficial  docker image for Adguard for personal use
 
 Official Docker Image for AdGuardHome here - https://hub.docker.com/r/adguard/adguardhome
 
