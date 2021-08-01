@@ -1,3 +1,6 @@
+[![Build Status](https://app.travis-ci.com/MohamedElashri/Adguard.svg?branch=main)](https://app.travis-ci.com/MohamedElashri/Adguard)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 # Adguard
  Unofficial  docker image for Adguard for personal use
 
